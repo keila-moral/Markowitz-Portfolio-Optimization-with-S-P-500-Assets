@@ -18,7 +18,6 @@ This repository implements a professional-grade Mean Variance (Markowitz) portfo
 * `app/`: optional Streamlit or Dash app for interactive exploration
 * `docs/Model_Validation_Report.md`: short model validation write-up (assumptions, limitations, sensitivity analysis)
 * `requirements.txt`: pinned environment
-* `README.md`: this file (you are reading it)
 
 ---
 
@@ -152,7 +151,7 @@ This file will describe limitations and sanity checks, including:
 ## Suggested roadmap 
 
 1. Complete `src/` module files with tests
-2. Build `notebooks/efficient_frontier.ipynb` that reproduces your Coursera visuals (with CML and tangent point highlighted)
+2. Build `notebooks/efficient_frontier.ipynb` based on my Coursera visuals (with CML and tangent point highlighted)
 3. Build `backtest.py` and `notebooks/backtest.ipynb`
 4. Create `docs/Model_Validation_Report.md` and a short `slides/` presentation
 5. (Optional) Streamlit dashboard in `app/`
